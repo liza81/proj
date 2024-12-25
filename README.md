@@ -1,1 +1,1 @@
-# proj
+git status# proj
