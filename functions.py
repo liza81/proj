@@ -25,6 +25,3 @@ def load_titles(folder):
             if os.path.isfile(doc_path):
                 headings.extend(extract_headings(doc_path))
     return headings
-
-
->>>>>>> 0b2da87db299c3cab44f7b5857bef7863e674a13
